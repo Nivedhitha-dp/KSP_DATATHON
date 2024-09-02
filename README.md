@@ -1,6 +1,6 @@
 # KSP_DATATHON
 
-This is test file
+This is a test file
 Step-by-Step Code Execution Instructions:
 1. Clone the repository.
 2. Open the terminal
